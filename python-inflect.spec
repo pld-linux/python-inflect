@@ -111,7 +111,7 @@ cd ..
 %py3_build
 
 %if %{with tests}
-ln -snf ../tests build-2/tests
+ln -snf ../tests build-3/tests
 cd build-3
 PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 \
 PYTEST_PLUGINS=pytest_black_multipy,pytest_flake8,pytest_cov.plugin \
