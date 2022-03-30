@@ -11,7 +11,7 @@ Summary(pl.UTF-8):	Poprawne generowanie liczby mnogiej i pojedynczej, liczebnik√
 Name:		python-inflect
 # keep 3.x here for python2 support
 Version:	3.0.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/inflect/
